@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Member from "../Member/Member";
-import './About.css'
+import "./About.css";
 
 const About = () => {
   // data fetching
@@ -10,6 +10,7 @@ const About = () => {
       .then((res) => res.json())
       .then((data) => setMembers(data));
   }, []);
+
   return (
     <section>
       {/* about maliha tech */}
@@ -50,7 +51,11 @@ const About = () => {
       {/* Our Team */}
       <div className='container'>
         <h3 className='text-danger my-5 team-title'>Our Team</h3>
-        <div className='teams-container '>{members.map(member=><Member member={member} key={member.id}></Member>)}</div>
+        <div className='teams-container '>
+          {members.map((member) => (
+            <Member member={member} key={member.id}></Member>
+          ))}
+        </div>
       </div>
     </section>
   );

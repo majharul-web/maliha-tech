@@ -3,6 +3,8 @@ import { Container, Nav, Navbar,} from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 
 const Header = () => {
+
+  // selected style
   const selected = {
     fontWeight: "bold",
     color: "white",
@@ -12,7 +14,6 @@ const Header = () => {
     <Navbar collapseOnSelect expand='lg' bg='dark' variant='dark'>
       <Container>
         <Navbar.Brand href='#home' className='fs-2 fw-bold text-primary'>
-          
           Maliha tech.
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='responsive-navbar-nav' />

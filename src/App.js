@@ -30,7 +30,7 @@ function App() {
           <Route exact path='/contact'>
             <Contact></Contact>
           </Route>
-          <Route exact path='*'>
+          <Route path='*'>
             <NotFound></NotFound>
           </Route>
         </Switch>

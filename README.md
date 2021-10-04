@@ -1,8 +1,9 @@
-# Website Name: Maleha tech.
+# Website Name: Maliha tech.
 
-Visit MY Website: [Web Programmer BD](https://maliha-tech.netlify.app/).
+Visit MY Website: [Maliha tech.](https://maliha-tech.netlify.app/).
 
 ## Website info:
 
-- I make this website using HTML,CSS,Bootstrap,Javascript and React.
+- I make this website using HTML,CSS,Bootstrap,FontAwesome,Javascript and React.
+- Our all Information represent this Web Site.
 - It is a SPA Website.

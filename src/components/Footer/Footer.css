@@ -1,0 +1,10 @@
+.footer{
+    background-color: #212529;
+}
+.footer-icon{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: white;
+
+}

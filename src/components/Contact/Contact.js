@@ -4,9 +4,13 @@ import { Button, Form } from "react-bootstrap";
 const Contact = () => {
   return (
     <div>
+
+      {/* contact title */}
       <h3 className='text-capitalize py-4' style={{ backgroundColor: "#F5F5F5" }}>
         contact with us
       </h3>
+
+      {/* contact form */}
       <div className='container my-5 '>
         <div className='w-75 mx-auto p-5 rounded-3' style={{ backgroundColor: "#FFFAEE" }}>
           <h3 className='pb-3'>Get In Touch</h3>
