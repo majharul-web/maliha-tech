@@ -1,0 +1,12 @@
+
+.notFound-container{
+    background: linear-gradient(to top right, #ccffff 0%, #cc99ff 100%);
+    margin: 100px 300px;
+    padding: 25px 30px;
+    border-radius: 7px;
+    
+}
+
+.notFound-title{
+    font-size: 150px;
+}
