@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1010,
+      "instructor": "Md Majharul Islam",
+      "designation": "Founder and CEO",
+      "image": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.webp"
+    },
+    {
+      "id": 1011,
+      "instructor": "Md Tahabur Islam",
+      "designation": "Product Manager",
+      "image": "https://t4.ftcdn.net/jpg/02/97/24/51/240_F_297245133_gBPfK0h10UM3y7vfoEiBC3ZXt559KZar.jpg"
+    },
+    {
+      "id": 1001,
+      "instructor": "Md Rashedul Islam",
+      "designation": "MSC in CSE,RUET",
+      "image": "https://t4.ftcdn.net/jpg/02/24/86/95/240_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg"
+    },
+    {
+      "id": 1002,
+      "instructor": "Md Mohosin Hasan",
+      "designation": "BSC in CSE,DUET",
+      "image": "https://t4.ftcdn.net/jpg/01/15/85/23/240_F_115852367_E6iIYA8OxHDmRhjw7kOq4uYe4t440f14.jpg"
+    },
+    {
+      "id": 1003,
+      "instructor": "Md Munir Hasan",
+      "designation": "BSC in CSE,DUET",
+      "image": "https://t3.ftcdn.net/jpg/02/68/77/20/240_F_268772018_c4jJBONUHzGqUF6m1lBOy44EMSEMb0e3.jpg"
+    },
+    {
+      "id": 1004,
+      "instructor": "Md Samir Islam",
+      "designation": "Web Developer,Maliha Tech",
+      "image": "https://t4.ftcdn.net/jpg/03/26/98/51/240_F_326985142_1aaKcEjMQW6ULp6oI9MYuv8lN9f8sFmj.jpg"
+    },
+    {
+      "id": 1005,
+      "instructor": "Md Ali Hossain",
+      "designation": "Web Developer,Alesha Tech",
+      "image": "https://t4.ftcdn.net/jpg/03/07/33/81/240_F_307338115_ca0if1wY3FdmmgAqDsf7FKArM9o0TvWv.jpg"
+    },
+    {
+      "id": 1006,
+      "instructor": "Md Amjad Hossain",
+      "designation": "BSC in CSE,DUET",
+      "image": "https://t4.ftcdn.net/jpg/00/67/20/79/240_F_67207980_5jNk6I3KFlJjOXY73c3FlfvssaxY5N51.jpg"
+    },
+    {
+      "id": 1007,
+      "instructor": "Md Sagor Hossain",
+      "designation": "BSC in CSE,CUET",
+      "image": "https://t3.ftcdn.net/jpg/03/28/19/46/240_F_328194664_RKSHvMLgHphnD1nwQYb4QKcNeEApJmqa.jpg"
+    },
+    {
+      "id": 1008,
+      "instructor": "Md Zubayer Hossain",
+      "designation": "MSC in English,DU",
+      "image": "https://t4.ftcdn.net/jpg/00/88/53/89/240_F_88538986_5Bi4eJ667pocsO3BIlbN4fHKz8yUFSuA.jpg"
+    },
+    {
+      "id": 1009,
+      "instructor": "Md Rezaul Karim",
+      "designation": "Graphics Designer",   
+      "image": "https://t4.ftcdn.net/jpg/02/87/35/99/240_F_287359914_HU3P7rhmyJMyyhBBcILcWd2S7DDwkJSs.jpg"
+    }
+]

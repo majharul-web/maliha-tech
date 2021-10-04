@@ -10,11 +10,16 @@ const Services = () => {
       .then((data) => setCourses(data));
   }, []);
   return (
-    <section className='course-container container my-5'>
-      {courses.map((course) => (
-        <Course course={course} key={course.id}></Course>
-      ))}
-    </section>
+    <>
+      <h3 className='text-capitalize py-4' style={{ backgroundColor: "#F5F5F5" }}>
+        Our all services
+      </h3>
+      <section className='course-container container my-5'>
+        {courses.map((course) => (
+          <Course course={course} key={course.id}></Course>
+        ))}
+      </section>
+    </>
   );
 };
 

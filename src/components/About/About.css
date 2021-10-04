@@ -1,0 +1,19 @@
+.teams-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+}
+.team-title{
+    position: relative;
+    font-weight: 700;
+}
+
+.team-title::after {
+    content: " ";
+    position: absolute;
+    width: 15vh;
+    border-bottom: 5px solid #e94f20;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
