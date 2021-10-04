@@ -1,7 +1,12 @@
 .hero-text {
- padding-top: 100px;
+ padding: 100px 5px 0 5px;
 }
 .hero-title {
  color: red;
+}
+.course-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 30px;
 }
 

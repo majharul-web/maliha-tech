@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1001,
+      "courseName": "MS Office Application",
+      "instructor": "Md Rashedul Islam",
+      "designation": "MSC in CSE,RUET",
+      "duration":"3 Month",
+      "fee": 2500,
+      "image": "https://ahlehadeeshyd.org/wp-content/uploads/2021/04/MS-Office-.jpg"
+    },
+    {
+      "id": 1002,
+      "courseName": "Graphics Design",
+      "instructor": "Md Mohosin Hasan",
+      "designation": "BSC in CSE,DUET",
+      "duration":"3 Month",
+      "fee": 3500,
+      "image": "https://ltcti.cu.ma/wp-content/uploads/2020/07/Advanced-Graphic-Design-course-in-uttara.jpg"
+    },
+    {
+      "id": 1003,
+      "courseName": "Digital Marketing",
+      "instructor": "Md Munir Hasan",
+      "designation": "BSC in CSE,DUET",
+      "duration":"3 Month",
+      "fee": 2500,
+      "image": "https://steemitimages.com/p/W5LtFUPm6g7111bbdcuxu3bfUg5qaCq8seb5paCtrrT7zMygwsnWkhqGQZkWSDpjrHSQiUehN5AUJvkRtiRUdB7n4DV4uzqbL6F6EwnYknEUQvQt9L4d7hMAFwDtmU4WLdxfEiFYUmSvEKxAGE8uF2rieBZRx?format=match&mode=fit&width=640"
+    },
+    {
+      "id": 1004,
+      "courseName": "Complet Web Development Course(MEAN)",
+      "instructor": "Md Majharul Islam",
+      "designation": "Web Developer,Maleha Tech",
+      "duration":"6 Month",
+      "fee": 7500,
+      "image": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/full-stack-web-developer-mean-stack-certification-training-qfksgm0d.jpg"
+    }
+]
