@@ -41,6 +41,7 @@ const Home = () => {
       {/* services section */}
 
       <section className='my-5'>
+        <h3 className='text-danger mb-4 team-title'>Our Services</h3>
         <div className='course-container container my-2 text-center'>
           {courses.map((course) => (
             <Course course={course} key={course.id}></Course>
